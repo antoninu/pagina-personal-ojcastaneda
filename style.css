@@ -2,7 +2,8 @@
   color: #1a1d23;
 }
 
-main, header {
+main,
+header {
   background-color: #797d88;
 }
 
@@ -78,7 +79,7 @@ footer > div {
   text-align: justify;
 }
 
-img[src="templates/foto.jpg"]{
+img[src="templates/foto.jpg"] {
   width: 300px;
 }
 
@@ -92,22 +93,28 @@ body {
   padding-top: 1rem;
 }
 
-h1, h2{
+h1,
+h2 {
   padding-top: 2.5rem;
   font-family: Georgia, serif;
   font-weight: bold !important;
 }
 
-h3, h4, h5 {
+h3,
+h4,
+h5 {
   padding-top: 1rem;
 }
 
-#my_hobbies, #my_profile, #my_projects {
-  position:relative;
+#my_hobbies,
+#my_profile,
+#my_projects {
+  position: relative;
 }
 
-h2 span{
-  position:absolute; top:-5rem;
+h2 span {
+  position: absolute;
+  top: -5rem;
 }
 
 * {

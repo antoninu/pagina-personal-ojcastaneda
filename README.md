@@ -1,3 +1,18 @@
+# Co-evaluado por Antonio Aspite
+
+- El codigo tiene buenas practicas y es legible
+- Hubo algunas correciones en la indentación que se tuvieron que efectuar, incluyendo lineas vacias y tags que tenian que estar en lineas separadas
+- Las secciones logicas son claramente distinguibles en la página pero no en el código, no se utilizan comentarios para distinguirlas
+- Existe una carpeta "Templates" pero solo contiene imágenes en lugar de plantillas
+- La estetica es simple pero consistente, aunque la fuente utilizada para los títulos de las secciones no coincide ni combina con los subtítulos
+- Las clases creadas son consistentes, buenas practicas en CSS. Sin embargo, la indentación del CSS necesitaba ajustes
+- _Navegacion:_ Todos los links funcionan correctamente en la barra de navegacion
+- _Responsive:_
+- Tamano lg: Maquetacion sin errores
+- Tamano md: No tiene ningun cambio
+- Tamano sm: Algunas filas se mantienen divididas entre columnas, lo que se considera una mala practica para dispositivos de este tamaño (las secciones de My Profile y las canciones). Además, la tipografía se muestra muy pequeña
+- En resumen: Buen trabajo pero no tiene suficiente responsive!
+
 Page description:
 
 This page consists of 4 main elements:
